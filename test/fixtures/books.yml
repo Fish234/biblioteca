@@ -1,0 +1,16 @@
+
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tittle: libro
+  author: Dongato
+  status: 1
+  loan_date: 2020-09-12 03:57:06
+  return_date: 2020-09-12 03:57:06
+
+two:
+  tittle: libro2
+  author: Donperro
+  status: 0
+  loan_date: 2020-09-12 03:57:06
+  return_date: 2020-09-12 03:57:06
